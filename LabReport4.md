@@ -1,6 +1,6 @@
 ## Step 1
 ![Image](vim-step1.png) <br>
-Keys Pressed: Typed out `ssh tnghiem@ieng6.ucsd.edu` to log in.
+Keys Pressed: Typed out `ssh tnghiem@ieng6.ucsd.edu <enter>` to log in.
 
 ## Step 2
 ![Image](vim-step2.png) <br>
