@@ -16,4 +16,9 @@ Keys Pressed: Typed out `vim L <tab> . <tab> <enter>` to start editing the `List
 
 ## Step 5
 ![Image](vim-step5.png) <br>
-Keys Pressed:
+Keys Pressed: `<up><up><enter>`, the `bash test.sh` command was 2 up in the command history, so I used the up arrow to access it. 
+
+## Step 6
+![Image](vim-step6-part1.png) <br>
+![Image](vim-step6-part2.png) <br>
+Keys Pressed: Typed out `git add L <tab><enter>` to stage the edited file, `ListExamples.java` for commit. Then, typed out `git commit`, where I did `i` to get into insert mode to type my message. After typing the message, I did `<esc> :wq` to exit insert mode and save and quit. Finally, typed out `git push` to push it to Github.
